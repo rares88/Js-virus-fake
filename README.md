@@ -1,2 +1,2 @@
 # Js-virus-fake
-vieeeeeeeeeeeeeeeeeeer
+c+++++++
