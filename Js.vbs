@@ -1,1 +1,8 @@
 X=MsgBox("reboot?",4+32,"lol") 
+X=MsgBox("hahaha",4+32,"lol") 
+X=MsgBox("reboot?",4+32,"lol") 
+X=MsgBox("hahaha",4+32,"lol") 
+X=MsgBox("reboot?",4+32,"lol") 
+X=MsgBox("hahaha",4+32,"lol") 
+X=MsgBox("reboot?",4+32,"lol") 
+X=MsgBox("hahaha",4+32,"lol") 
